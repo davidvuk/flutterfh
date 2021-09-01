@@ -1,0 +1,3 @@
+[submodule "counterapp"]
+	path = counterapp
+	url = git@github.com:davidvuk/counterapp.git
